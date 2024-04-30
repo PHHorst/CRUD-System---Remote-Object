@@ -4,7 +4,6 @@ from Pyro5 import serializers
 import Pyro5.server
 import mysql.connector 
 import gameClass as gc
-#python -m Pyro5.nameserver
 
 meubd = mysql.connector.connect(
     host='localhost',
