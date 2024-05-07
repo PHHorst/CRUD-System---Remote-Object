@@ -1,0 +1,1 @@
+Projeto realizado na matéria de sistemas distribuidos no curso de Engenharia de Computação da UTFPR - Câmpus Toledo visando implementar um sistema CRUD com objetos remotos, neste caso utilizamos o Pyro como biblioteca para possibilitar a implementação
